@@ -2,11 +2,19 @@
 Changelog for package ign_ros2_control_demos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.1 (2022-07-05)
+------------------
+* ign_ros2_control_demos: Install urdf dir (`#61 <https://github.com/ignitionrobotics/ign_ros2_control/issues/61>`_)
+* Remove URDF dependency (`#56 <https://github.com/ignitionrobotics/ign_ros2_control/issues/56>`_)
+* Fixed example
+* Add support for initial_values for hardware interfaces when starting simulation. (`#27 <https://github.com/ignitionrobotics/ign_ros2_control/issues/27>`_)
+* Contributors: Alejandro Hernández Cordero, Andrej Orsula, Bence Magyar, Denis Štogl, ahcorde
+
 0.4.0 (2022-03-18)
 ------------------
 
 0.3.0 (2022-03-16)
------------
+------------------
 
 0.2.0 (2022-02-17)
 ------------------

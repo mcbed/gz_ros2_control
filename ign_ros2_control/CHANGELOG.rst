@@ -2,6 +2,21 @@
 Changelog for package ign_ros2_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.1 (2022-07-05)
+------------------
+* Remove warnings (`#72 <https://github.com/ignitionrobotics/ign_ros2_control/issues/72>`_)
+* change component name for ignition (`#69 <https://github.com/ignitionrobotics/ign_ros2_control/issues/69>`_)
+* Added logic for activating hardware interfaces (`#68 <https://github.com/ignitionrobotics/ign_ros2_control/issues/68>`_)
+* Remove URDF dependency (`#56 <https://github.com/ignitionrobotics/ign_ros2_control/issues/56>`_)
+* Adapt to ROS 2 Humble
+* typo in citadel name (`#51 <https://github.com/ignitionrobotics/ign_ros2_control/issues/51>`_)
+* ros2_control is now having usings under its namespace. (`#43 <https://github.com/ignitionrobotics/ign_ros2_control/issues/43>`_)
+* Fix default ign gazebo version Rolling (`#45 <https://github.com/ignitionrobotics/ign_ros2_control/issues/45>`_)
+* Fix ignition version in package.xml - Rolling (`#41 <https://github.com/ignitionrobotics/ign_ros2_control/issues/41>`_)
+* Fixed position control (`#29 <https://github.com/ignitionrobotics/ign_ros2_control/issues/29>`_)
+* Add support for initial_values for hardware interfaces when starting simulation. (`#27 <https://github.com/ignitionrobotics/ign_ros2_control/issues/27>`_)
+* Contributors: Alejandro Hernández Cordero, Denis Štogl, Guillaume Beuzeboc, Tianyu Li, ahcorde
+
 0.4.0 (2022-03-18)
 ------------------
 * Fix default ign gazebo version Galactic (`#44 <https://github.com/ignitionrobotics/ign_ros2_control/issues/44>`_)
